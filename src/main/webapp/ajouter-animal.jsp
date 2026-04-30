@@ -109,7 +109,7 @@
     <div class="form-group">
       <label for="sexe">Sexe :</label>
       <select id="sexe" name="sexe">
-        <option value="Mâle">Mâle</option>
+        <option value="Mâle">Male</option>
         <option value="Femelle">Femelle</option>
       </select>
     </div>
